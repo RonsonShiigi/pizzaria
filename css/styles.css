@@ -1,0 +1,137 @@
+
+body{
+    /* background-image: url("https://cdn3.volusion.com/refe6.s6h4r/v/vspfiles/photos/World-Flag-Italy-2.gif"); */
+    background-image: url("http://getwallpapers.com/wallpaper/full/0/2/f/1001599-widescreen-italy-flag-wallpapers-1920x1200-for-phones.jpg");
+    background-size: 100%;
+    background-repeat: repeat-y;
+
+}
+
+
+
+
+
+
+
+
+
+#name{
+  
+    font-size:70;
+    padding:0;
+    margin-bottom:0;
+    background-color: red;
+    
+    text-align: center;
+    width:50%;
+    
+    margin-left:300px;
+    border-style:dotted;
+    
+   
+
+}
+
+#tagline{
+    font-size:50;
+    margin:0;
+    padding:0;
+    max-width: 98%;
+    background-color:green;
+    text-align: center;
+    width:50%;
+    margin-left:300px;
+    border-style:solid;
+    
+
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    
+
+}
+img.logo{
+    width:100px;
+    height: auto;
+}
+
+.guide{
+list-style-type: none;
+margin:0;
+padding:0;
+overflow: hidden;
+background-color:cornflowerblue;
+text-align: center;
+font-weight: bold;
+font-size: 25;
+display:block;
+color:black;
+text-align:left;
+padding: 5px 60px;
+text-decoration:none;
+
+}
+
+
+.Boom{
+   
+    display: inline-block;
+    padding:20px;
+   
+    
+}
+
+
+li a:hover{
+    background-color: orange;
+}
+
+
+#today{
+    background-color: yellow;
+    text-align: right;
+    width:12%;
+    text-align: center;
+    margin-top:-84px;
+    margin-left:900px;
+
+
+}
+
+
+#topMenu{
+    border:dashed;
+    background-color:peachpuff;
+    width:75%;
+    margin-left:175px;
+   text-align: center;
+}
+
+#subscribe{
+background-color: beige;
+width:40%;
+margin-left:370px;
+text-align: center;
+}
+
+#visit{
+    background-color: goldenrod;
+    width:35%;
+    margin-left:410px;
+    text-align: center;
+
+}
+/* footer{
+    background-color: magenta;
+} */
+
+#MenuMan{
+    font-size:60;
+}
+
+.pizzaName{
+    font-weight:bold;
+}
