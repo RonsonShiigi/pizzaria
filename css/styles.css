@@ -125,9 +125,9 @@ text-align: center;
     text-align: center;
 
 }
-/* footer{
-    background-color: magenta;
-} */
+footer{
+    text-align: right;
+}
 
 #MenuMan{
     font-size:60;
