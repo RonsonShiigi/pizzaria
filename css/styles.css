@@ -4,6 +4,7 @@ body{
     background-image: url("http://getwallpapers.com/wallpaper/full/0/2/f/1001599-widescreen-italy-flag-wallpapers-1920x1200-for-phones.jpg");
     background-size: 100%;
     background-repeat: repeat-y;
+    
 
 }
 
@@ -16,33 +17,33 @@ body{
 
 
 #name{
-  
+    
     font-size:70;
     padding:0;
     margin-bottom:0;
     background-color: red;
-    
+    margin:auto;
     text-align: center;
     width:50%;
     
-    margin-left:300px;
+    /* margin-left:300px; */
     border-style:dotted;
-    
+    font-family: 'Italiana', serif;
    
 
 }
 
 #tagline{
     font-size:50;
-    margin:0;
+    margin:auto;
     padding:0;
     max-width: 98%;
     background-color:green;
     text-align: center;
     width:50%;
-    margin-left:300px;
+    /* margin-left:300px; */
     border-style:solid;
-    
+    font-family: 'Italiana', serif;
 
 }
 .logo{
@@ -106,21 +107,21 @@ li a:hover{
     border:dashed;
     background-color:peachpuff;
     width:75%;
-    margin-left:175px;
+    margin:auto;
    text-align: center;
 }
 
 #subscribe{
 background-color: beige;
 width:40%;
-margin-left:370px;
+margin:auto;
 text-align: center;
 }
 
 #visit{
     background-color: goldenrod;
     width:35%;
-    margin-left:410px;
+    margin: auto;
     text-align: center;
 
 }
